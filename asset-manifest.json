@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/bhargavinb12/bhargavinb12.github.io/static/css/main.dc2055b5.chunk.css",
-    "main.js": "/bhargavinb12/bhargavinb12.github.io/static/js/main.429d954d.chunk.js",
-    "main.js.map": "/bhargavinb12/bhargavinb12.github.io/static/js/main.429d954d.chunk.js.map",
-    "runtime-main.js": "/bhargavinb12/bhargavinb12.github.io/static/js/runtime-main.a7fd585e.js",
-    "runtime-main.js.map": "/bhargavinb12/bhargavinb12.github.io/static/js/runtime-main.a7fd585e.js.map",
-    "static/js/2.e0db28ce.chunk.js": "/bhargavinb12/bhargavinb12.github.io/static/js/2.e0db28ce.chunk.js",
-    "static/js/2.e0db28ce.chunk.js.map": "/bhargavinb12/bhargavinb12.github.io/static/js/2.e0db28ce.chunk.js.map",
-    "index.html": "/bhargavinb12/bhargavinb12.github.io/index.html",
-    "precache-manifest.efd347f1ab46f2f93b83ad3f5c6a1e37.js": "/bhargavinb12/bhargavinb12.github.io/precache-manifest.efd347f1ab46f2f93b83ad3f5c6a1e37.js",
-    "service-worker.js": "/bhargavinb12/bhargavinb12.github.io/service-worker.js",
-    "static/css/main.dc2055b5.chunk.css.map": "/bhargavinb12/bhargavinb12.github.io/static/css/main.dc2055b5.chunk.css.map",
-    "static/media/logo.svg": "/bhargavinb12/bhargavinb12.github.io/static/media/logo.25bf045c.svg"
+    "main.css": "/bhargavinb12.github.io/static/css/main.dc2055b5.chunk.css",
+    "main.js": "/bhargavinb12.github.io/static/js/main.429d954d.chunk.js",
+    "main.js.map": "/bhargavinb12.github.io/static/js/main.429d954d.chunk.js.map",
+    "runtime-main.js": "/bhargavinb12.github.io/static/js/runtime-main.46fa27bf.js",
+    "runtime-main.js.map": "/bhargavinb12.github.io/static/js/runtime-main.46fa27bf.js.map",
+    "static/js/2.e0db28ce.chunk.js": "/bhargavinb12.github.io/static/js/2.e0db28ce.chunk.js",
+    "static/js/2.e0db28ce.chunk.js.map": "/bhargavinb12.github.io/static/js/2.e0db28ce.chunk.js.map",
+    "index.html": "/bhargavinb12.github.io/index.html",
+    "precache-manifest.cb6cbc1b87c3957cd8de6417cbc8d64f.js": "/bhargavinb12.github.io/precache-manifest.cb6cbc1b87c3957cd8de6417cbc8d64f.js",
+    "service-worker.js": "/bhargavinb12.github.io/service-worker.js",
+    "static/css/main.dc2055b5.chunk.css.map": "/bhargavinb12.github.io/static/css/main.dc2055b5.chunk.css.map",
+    "static/media/logo.svg": "/bhargavinb12.github.io/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7fd585e.js",
+    "static/js/runtime-main.46fa27bf.js",
     "static/js/2.e0db28ce.chunk.js",
     "static/css/main.dc2055b5.chunk.css",
     "static/js/main.429d954d.chunk.js"
